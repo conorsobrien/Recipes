@@ -1,5 +1,4 @@
--------------
--- Filling --
+Filling
 -------------
 <ul>
   <li>1 cup rhubarb (chopped)</li>
@@ -12,8 +11,8 @@
 
 stir together and put in pie dish that's been greased with butter
 
--------------
--- Topping --
+
+Topping
 -------------
 1/2 cup oats
 1/2 cup wholemeal flour
@@ -22,6 +21,8 @@ stir together and put in pie dish that's been greased with butter
 
 Mix in food processor.
 
+Steps
+--------------
 1. Prep filling
 2. Put pie dish in oven at 160*C for 30mins
 3. Prep topping
