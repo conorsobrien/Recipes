@@ -9,17 +9,18 @@ Filling
 <li>1 tbsp cornstarch</li>
   </ul>
 
-stir together and put in pie dish that's been greased with butter
+Stir together and spread in pie dish that's been greased with butter.
 
 
 Topping
 -------------
-1/2 cup oats
-1/2 cup wholemeal flour
-1/2 cup brown sugar
-1/2 cup unsalted butter
+<ul>
+  <li>1/2 cup oats</li>
+<li>1/2 cup wholemeal flour</li>
+<li>1/2 cup brown sugar</li>
+<li>1/2 cup unsalted butter</li>
 
-Mix in food processor.
+Mix in food processor. Done.
 
 Steps
 --------------
