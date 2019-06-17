@@ -2,12 +2,12 @@ Filling
 -------------
 <ul>
   <li>1 cup rhubarb (chopped)</li>
-<li>1 cup strawberries (chopped)</li>
-<li>3 tbsp brown sugar</li>
-<li>1 tsp vanilla extract</li>
-<li>1 tbsp lemon juice</li>
-<li>1 tbsp cornstarch</li>
-  </ul>
+  <li>1 cup strawberries (chopped)</li>
+  <li>3 tbsp brown sugar</li>
+  <li>1 tsp vanilla extract</li>
+  <li>1 tbsp lemon juice</li>
+  <li>1 tbsp cornstarch</li>
+</ul>
 
 Stir together and spread in pie dish that's been greased with butter.
 
@@ -16,9 +16,10 @@ Topping
 -------------
 <ul>
   <li>1/2 cup oats</li>
-<li>1/2 cup wholemeal flour</li>
-<li>1/2 cup brown sugar</li>
-<li>1/2 cup unsalted butter</li>
+  <li>1/2 cup wholemeal flour</li>
+  <li>1/2 cup brown sugar</li>
+  <li>1/2 cup unsalted butter</li>
+</ul>
 
 Mix in food processor. Done.
 
