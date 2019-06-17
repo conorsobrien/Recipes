@@ -1,12 +1,14 @@
 -------------
 -- Filling --
 -------------
-1 cup rhubarb (chopped)
-1 cup strawberries (chopped)
-3 tbsp brown sugar
-1 tsp vanilla extract
-1 tbsp lemon juice
-1 tbsp cornstarch
+<ul>
+  <li>1 cup rhubarb (chopped)</li>
+<li>1 cup strawberries (chopped)</li>
+<li>3 tbsp brown sugar</li>
+<li>1 tsp vanilla extract</li>
+<li>1 tbsp lemon juice</li>
+<li>1 tbsp cornstarch</li>
+  </ul>
 
 stir together and put in pie dish that's been greased with butter
 
