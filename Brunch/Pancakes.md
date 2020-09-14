@@ -11,3 +11,9 @@ Makes enough for 3-4 servings.
   <li>1 tablespoon (12g) baking powder </li>
   <li>2 (21g) tablespoon melted butter</li>
 </ul>
+
+Mix wet ingredients (Milk, eggs & melted butter) separately. 
+Mix dry ingredients.
+Combine dry and wet ingredients.
+
+Cook on medium-hot thick pan. Waiting for bubbles to appear on top a bad idea as they can burn. Check undersides to know when to flip.
